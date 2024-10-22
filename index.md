@@ -1,5 +1,3 @@
-# Arnold's AI Links
-
 This website provides links to AI assistants.
 
 ## Links
