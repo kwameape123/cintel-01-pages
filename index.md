@@ -5,12 +5,12 @@ This website provides links to AI assistants.
 ## Links
 
 Here's a clickable link: [My favorite AI assistant]
-- [OpenAI] (https://chat.openai.com/)
-- [ClaudeAI] (https://claude.ai/login?returnTo=%2F%3F)
-- [GeminiAI] (https://gemini.google.com/app)
-- [ZapierAI] (https://zapier.com/central)
-- [CopilotAI] (https://copilot.microsoft.com/)
-- [PerplexityAI] (https://www.perplexity.ai/)
+- [OpenAI](https://chat.openai.com/)
+- [ClaudeAI](https://claude.ai/login?returnTo=%2F%3F)
+- [GeminiAI](https://gemini.google.com/app)
+- [ZapierAI](https://zapier.com/central)
+- [CopilotAI](https://copilot.microsoft.com/)
+- [PerplexityAI](https://www.perplexity.ai/)
 
 ## Images
 
